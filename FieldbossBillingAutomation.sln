@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldbossBillingAutomation", "FieldbossBillingAutomation.csproj", "{7E32D3E5-D4B2-46A7-BDE6-AA630931343F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E32D3E5-D4B2-46A7-BDE6-AA630931343F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E32D3E5-D4B2-46A7-BDE6-AA630931343F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E32D3E5-D4B2-46A7-BDE6-AA630931343F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E32D3E5-D4B2-46A7-BDE6-AA630931343F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE367004-DF1B-40E4-BCA3-09371CBB59C9}
+	EndGlobalSection
+EndGlobal
